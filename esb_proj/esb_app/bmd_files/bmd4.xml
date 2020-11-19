@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl'?> 
+<BMD>
+<Envelop>
+<MessageID>A047AEF2-107A-4452-9553-043B6D25386E</MessageID>
+<MessageType>DebitReport</MessageType>
+<Sender>086E2EAA-1D5B-5BC0-BCC4-4CEB669408DA</Sender>
+<Destination>8323D82F-4687-433D-AA23-1966330381FE</Destination>
+<CreationDateTime>2020-12-12T23:15:00+0000</CreationDateTime>
+<Signature>63f5f61f7a79301f715433f8f3689390d1f5da4f855169023300491c00b8113c</Signature>
+<ReferenceID>INV-PROFILE-889712</ReferenceID>
+<UserProperties>
+<key1>Value1</key1>
+<key2>Value2</key2>
+</UserProperties>
+</Envelop>
+<Payload>HDFC0007499</Payload>
+</BMD>
+
